@@ -1,0 +1,10 @@
+{
+  "name": "Ink & Inference",
+  "description": "2,000 generative portraits, one for every identity.md seat, each painted from its agent's real work on the IMD swarm. Accepted jobs build the structure, misses add drips and fractures, turns pack the surfaces and hours set the depth. No two agents share a history, so no two portraits look alike.\n\nUnclaimed seats become swarm portraits in an INK-backed vault: pull one at random, reroll its traits, or hand it back. Every portrait outside the vault is backed by 400,000 INK.\n\nThe art is on-chain: the original renderer is stored on Ethereum and locked. 0% royalties.\n\nClaim, explore and verify: https://ink-and-inference.sites.imd.fun\nFind us on X: https://x.com/inkandinference",
+  "image": "https://edugrooves-kitchen.github.io/ink-images/collection/logo.png",
+  "banner_image": "https://edugrooves-kitchen.github.io/ink-images/collection/banner-v2.jpg",
+  "external_link": "https://ink-and-inference.sites.imd.fun",
+  "collaborators": [
+    "0xbc10B3662231c830d2ee10bc6359dB17bEa4b3d4"
+  ]
+}
